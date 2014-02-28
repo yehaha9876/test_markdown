@@ -1,4 +1,4 @@
-1. 换行符
+#1. 换行符
 
 first line
 second line
@@ -13,12 +13,12 @@ Above line ended with 2 spaces.
 以两个或两个以上以上空格结尾 
 
 
-2. 链接自动生成
+#2. 链接自动生成
 
 http://www.baidu.com
 
 
-3. 代码高亮
+#3. 代码高亮
 
 一个tab或者四个空格：
 
@@ -59,13 +59,13 @@ But let's throw in a tag.
 ```
 
 
-4. Emoji（表情）
+#4. Emoji（表情）
 
 Sometimes you want to be :cool: and add some :sparkles: to your :speech_balloon:. Well we have a :gift: for you:
 :exclamation: You can use emoji anywhere GFM is supported. :sunglasses:
 
 
-5. 特殊符合开始
+#5. 特殊符合开始
 
 
     @foo : for team members
@@ -77,7 +77,7 @@ Sometimes you want to be :cool: and add some :sparkles: to your :speech_balloon:
 
 
 
-6. 标准markdown
+#6. 标准markdown
 
 Headers
 
@@ -101,7 +101,7 @@ Alt-H2
 链接为#ab_c-d-e-anchor
 
 
-7. 字体
+#7. 字体
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -133,7 +133,7 @@ Some text that should be aligned with the above item.
 
 
 
-9. 链接
+#9. 链接
 * links:
 [I'm an inline-style link](https://www.google.com)
 
@@ -157,7 +157,7 @@ Some text to show that the reference links can follow later.
 An email <example@example.com> link.
 
 
-10. 图片
+#10. 图片
 Inline-style:
 ![alt text](assets/logo-white.png)
 
@@ -166,7 +166,7 @@ Reference-style:
 ![alt text1][logo]
 [logo]: assets/logo-white.png
 
-11. 横线
+#11. 横线
 Three or more...
 
 ---
@@ -182,12 +182,13 @@ ___
 Underscores
 
 
-12. 表格
+#12. 表格
 
 | header 1 | header 2 |
 | -------- | -------- |
 | cell 1 | cell 2 |
 | cell 3 | cell 4 |
+
 
 
 First Header | Second Header | Third Header
